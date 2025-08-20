@@ -4,7 +4,7 @@ A very curious fellow, I fiddle with almost anything.
 
 --------------------------------------------------------------------------------------------------
 
-Frameworks: Laravel, Dot NET, Kotlin
+Frameworks: Laravel, .NET, Kotlin
 
 Coding: C#, Java(Basic), PHP, Python, Javascript(Basic)
 

@@ -9,5 +9,5 @@ Frameworks: Laravel, .NET, Kotlin
 
 Coding: C#, Java(Basic), PHP, Python, Javascript(Basic)
 
-Tools: Photoshop, Audition, Primiere, MAX+, n8n, PHPmyAdmin
+Tools: Photoshop, Audition, Primiere, MAX+, n8n, PHPmyAdmin, Liferay
 

@@ -1,13 +1,13 @@
 Advanced Computer Engineering - Montazeri Technical University of Mashhad - 21 - Iran/Mashhad
 
-A very curious fellow, I fiddle with almost anything.
+A very curious fellow, I fiddle with almost anything. Specializing in modern tools.
 My Hobbies are anime and games.
 
 --------------------------------------------------------------------------------------------------
 
 Frameworks: Laravel, .NET, Kotlin
 
-Coding: C#, Java(Basic), PHP, Python, Javascript(Basic)
+Coding: C#, PHP, Python
 
-Tools: Photoshop, Audition, Primiere, MAX+, n8n, PHPmyAdmin, Liferay
+Tools: Photoshop, n8n, PhpMyAdmin, Liferay
 

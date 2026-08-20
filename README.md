@@ -1,6 +1,6 @@
 Advanced Computer Engineering - Montazeri Technical University of Mashhad - 21 - Iran/Mashhad
 
-A very curious fellow, I fiddle with almost anything. Specializing in modern tools.
+A very curious fellow, I fiddle with almost anything. Specializing in modern tools and currently employed as a Backend Engineer.
 My Hobbies are anime and games.
 
 --------------------------------------------------------------------------------------------------
